@@ -1,7 +1,7 @@
-# Axonal Defasciculation 2026 Manuscript
+# Collagen XVIII Manuscript
 
 Interactive HTML files containing R code for the paper "Axonal defasciculation is restricted to specific branching points during regeneration of the lateral line nerve in zebrafish". 
-(https://doi.org/10.1242/dev.205054)
+Published January 8th, 2026. (https://doi.org/10.1242/dev.205054).
 
 Download to view in browser.
 
